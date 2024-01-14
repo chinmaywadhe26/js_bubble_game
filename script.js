@@ -1,4 +1,4 @@
-var timer = 6;
+var timer = 15;
 var score = 0;
 var hitrn = 0;
 function makeBubble(){var clutter = "";
